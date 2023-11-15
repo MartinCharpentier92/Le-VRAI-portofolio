@@ -1,0 +1,30 @@
+#navbar{
+    font-size: 1.3em; 
+}
+
+#navbar ul{
+    margin: 1% 2% 2% 2%;
+    padding: 0.4rem;
+    display: flex;
+    text-align: center;
+    list-style-type: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 5%;
+    /* justify-content: center; */
+}
+
+#navbar li{
+    padding: 2%;
+    transition: 1s;
+    display: flex;
+    text-wrap: nowrap;
+}
+ 
+#navbar li:hover{
+    background-color: rgb(50, 50, 50);
+}
+
+.nav-links{
+    display: flex;
+    gap: 10px;
+}

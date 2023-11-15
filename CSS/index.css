@@ -1,0 +1,28 @@
+/* *{
+    border: 1px solid red;
+} */
+
+
+.index-main-content{
+    margin: 3%;
+    padding: 1%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.index-main-block1 h1,
+.index-main-block1 p{
+    padding: 1%;
+}
+
+.index-main-block1{
+    font-size: 1.2em;
+}
+
+.index-main-block2{
+    text-align: center;
+}
+
+img{
+    width: 60%;
+}

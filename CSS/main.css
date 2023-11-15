@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Dosis', sans-serif;
+}
+
+body{
+    background-color: rgb(23, 23, 23);
+    /* color: white ; */
+}
+
+a{
+    /* color: white; */
+    text-decoration: none;
+}
