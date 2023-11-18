@@ -1,0 +1,26 @@
+main{
+    margin: auto;
+    /* border: 1px solid white; */
+    width: 70%;
+}
+
+.apropos-main-biographie{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.2em;
+    
+}
+
+.apropos-main-biographie h1{
+    font-size: 3em;
+    margin-bottom: 4%;
+}
+
+.apropos-main-biographie-txt{
+    text-align: justify;
+}
+
+.box{
+    margin-bottom: 3%;
+}

@@ -6,9 +6,10 @@
     <link rel="stylesheet" href="CSS/nav.css">
     <link rel="stylesheet" href="CSS/footer.css">
     <link rel="stylesheet" href="CSS/main.css">
-    <link rel="stylesheet" href="CSS/quisuisje.css">
+    <link rel="stylesheet" href="CSS/apropos.css">
     <link rel="stylesheet" href="CSS/passion.css">
     <link rel="stylesheet" href="CSS/index.css">
+    <link rel="stylesheet" href="CSS/projet.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
