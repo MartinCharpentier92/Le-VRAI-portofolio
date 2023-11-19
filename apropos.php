@@ -1,6 +1,6 @@
 <?php require_once('_header.php') ?>
 
-<main>
+<main class="apropos-main">
 
     <div class="apropos-main-biographie">
         <h1>Biographie</h1>

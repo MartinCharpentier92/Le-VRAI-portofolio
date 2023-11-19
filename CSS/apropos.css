@@ -1,4 +1,4 @@
-main{
+.apropos-main{
     margin: auto;
     /* border: 1px solid white; */
     width: 70%;
@@ -8,8 +8,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: 1.2em;
-    
+    font-size: 1.2em;   
 }
 
 .apropos-main-biographie h1{
