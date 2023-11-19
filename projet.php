@@ -1,9 +1,9 @@
 <?php require_once('_header.php') ?>
 
-<main>
+<main class="projet-main">
 
-    <div class="projet-main">
-        <h1 class='projet-main-h1'>Mes projets</h1>
+    <div class="projet-main1">
+        <h1>Mes projets</h1>
 
         <div class="projet-main-content">
             Tout au long de ma scolarité, j'ai été amener à faire des projets.

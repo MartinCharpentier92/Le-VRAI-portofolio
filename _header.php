@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="CSS/apropos.css">
     <link rel="stylesheet" href="CSS/passion.css">
     <link rel="stylesheet" href="CSS/index.css">
-    <link rel="stylesheet" href="CSS/projet.css">
+    <link rel="stylesheet" href="CSS/projets.css">
     
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
