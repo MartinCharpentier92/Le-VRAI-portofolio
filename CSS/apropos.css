@@ -8,7 +8,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: 1.2em;   
 }
 
 .apropos-main-biographie h1{
@@ -18,6 +17,7 @@
 
 .apropos-main-biographie-txt{
     text-align: justify;
+    font-size: 1.3em;
 }
 
 .box{

@@ -29,3 +29,28 @@
             </div>
         </ul>
     </nav>
+
+
+
+<main class="photo-main">
+
+<div class="photo-main1">
+
+    <button class="bouton">
+        <a href="Javascript:history.go(-1)"> < Retour</a>
+    </button>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+</main>
