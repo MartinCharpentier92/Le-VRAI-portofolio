@@ -1,5 +1,15 @@
 footer{
-    margin: auto;
-    width: 80%;
-    border-top: 1px solid white ;
+    margin: 1% 2% 2% 2%;
+    padding: 0.4rem;
+    display: flex;
+    text-align: center;
+    border-top: 1px solid white;
+    margin-top: 10%;
+    height: 10rem;
+    justify-content: center;
+}
+
+.container-footer1{
+    margin-top: 10%;
+    font-size: 1.4em;
 }

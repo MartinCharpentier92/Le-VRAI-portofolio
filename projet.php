@@ -16,9 +16,9 @@
         <div class="container projet-main-content1">
         <h2>Le Qwirkle</h2>
         <p>
-            Ce projet nous a été donné au milieu de la première année, en bref il fallait coder en langage C
-            le jeu du qwirkle (jeu que je ne connaissais absolument pas). Il y a de nombreuses difficultés dans ce projet
-            dont la première était de comprendre les règles du jeu. Mais en l'espace de deux semaines environ nous avons réussi mes camarade et moi à faire
+            Ce projet nous a été donné au milieu de la première année, en bref il fallait coder <strong>en langage C</strong>
+            le jeu du <strong>qwirkle</strong> (jeu que je ne connaissais absolument pas). Il y a de nombreuses difficultés dans ce projet
+            dont la première était de comprendre les règles du jeu. Mais en l'espace de deux semaines environ nous avons réussi mes camarades et moi à faire
             quelque chose qui nous satisfaisait. <br> 
             <a href="content/qwirkle.php">En savoir plus...</a>
         </p>
@@ -28,13 +28,13 @@
         <div class="container projet-main-content2">
         <h2>Donjon et Dragon</h2>
         <p>
-            Ce projet a été fait en fin de première année, le but : codé en PHP, SQL, HTML et CSS un jeu 
+            Ce projet a été fait en fin de première année, le but : codé en <strong>PHP, SQL, HTML et CSS</strong>  un jeu 
             type donjon et dragon. C'était un projet individuel qui nous laissait réellement la liberté de choisir le thème
             du jeu, j'ai choisis de m'orienter vers la grêce antique étant une période qui m'a toujours fasciné et 
-            ai notamment eu recours à l'IA pour générer les images dont j'avais besoin. 
+            ai notamment eu recours à <strong>l'IA pour générer les images</strong> dont j'avais besoin. 
             Ce projet est tombé à un moment compliqué pour moi, mais je reste satisfait de mon travail étant donné le peu de 
             temps que j'avais (1 semaine contre plusieurs pour les autres). <br>
-             <a href="content/donjon.php">En savoir plus...</a>
+            <a href="content/donjon.php">En savoir plus...</a>
         </p>
         </div>
 
@@ -43,9 +43,9 @@
         <h2>Le site de vente</h2>
         <p>
             Reçu également en fin d'année comme le projet précédent, c'est à deux (au lieu de trois) que nous 
-            avons réalisé ce projet. La consigne était de faire un site de vente dans un domaine précis. Nous avons 
+            avons réalisé ce projet. La consigne était de faire un site de vente dans un domaine précis toujours en <strong>PHP, SQL, HTML et CSS</strong>. Nous avons 
             choisi de se spécialisé sur la photographie, certaines fonctionnalités devaient être présente dans le site dont 
-            certaine que nous n'avions pas vu en classe. Le but, voir comment les étudiants allait faire face à des problèmes 
+            certaine que nous n'avions pas vu en classe. Le but, voir comment les étudiants allaient faire face à des problèmes 
             dont les solutions ne leurs ont jamais été montré. <br>
             <a href="content/photo.php">En savoir plus...</a>
         </p>
@@ -55,9 +55,6 @@
 
 
 
-
-
-
-
-
 </main>
+
+<?php require_once('_footer.php') ?>

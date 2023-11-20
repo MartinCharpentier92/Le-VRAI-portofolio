@@ -14,13 +14,13 @@
 .projet-main h1{
     font-size: 3em;
     text-align: center;
-    margin-bottom: 4%;
+    margin-bottom: 7%;
 }
 
 .projet-main-content{
     font-size: 1.3em;
     text-align: justify;
-    margin-bottom: 3%;
+    margin-bottom: 10%;
 }
 
 .container{
@@ -75,6 +75,36 @@ Qwirkle page
 }
 
 .qwirkle-main-text1,
-.qwirkle-main-text2{
+.qwirkle-main-text2,
+.qwirkle-main-text3{
+    margin-bottom: 2%;
+}
+
+.qwirkle-main-text3{
+    margin-bottom: 5%;
+}
+
+.qwirkle-main-link{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.qwirkle-main-link1 a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.qwirkle-main-link1 img{
+    width: 60%;
+    transition: 0.7s;
+}
+
+.qwirkle-main-link1 img:hover{
+    width: 70%
+}
+
+.qwirkle-main-link2{
     margin-bottom: 2%;
 }

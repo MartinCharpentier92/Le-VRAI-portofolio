@@ -28,6 +28,10 @@
                 J'ai développé un goût pour l'ordre et l'organisation, j'aime beaucoup aidé les gens et échanger avec 
                 eux dans le cadre de discussions civilisés. 
             </div>
+
+            <div class="box apropos-main-biographie-p3">
+
+            </div>
             
         </div>
     </div>    
@@ -36,3 +40,6 @@
     
 
     </main>
+
+
+<?php require_once('_footer.php')?>

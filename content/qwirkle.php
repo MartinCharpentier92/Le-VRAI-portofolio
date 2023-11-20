@@ -54,6 +54,10 @@
                     qui a pu nous expliquer en détail l'uitilisation des pointeurs et comment ils fonctionnaient. Une des 
                     autres difficultés de ce projet était, le jeu en lui-même. Coder un jeu qu'on ne connaît pas et qu'on ne comprends
                     pas n'est pas chose aisé. 
+                    <br>
+                    Le projet a été guidé par mon camarade le plus expérimenté, et j'ai pue me rendre compte tout comme lui que 
+                    donner des ordres et prendre des intiatives n'est pas facile mais est un exercice extrêment stimulant sur plein 
+                    d'aspect.
                 </p>
             </div>
 
@@ -64,8 +68,20 @@
                     fait tout ce que nous pouvions.
                 </p>
             </div>
-           
             
+            
+        </div>
+
+        <div class="qwirkle-main-link">
+            <div class="qwirkle-main-link2">
+                <h3>Lien vers le GitHub du projet</h3>
+            </div>
+            
+            <div class="qwirkle-main-link1">
+                <a target='blank' href="https://github.com/AlexandrePuiseux65/Projet_Qwirkle_B1">
+                    <img src="../img/logo/github-logo.png" alt="">
+                </a>
+            </div>
             
         </div>
 
