@@ -13,3 +13,16 @@ a{
     text-decoration: none;
 }
 
+.bouton{
+    color: white;
+    border: 1px solid white;
+    background-color: rgb(43, 43, 43);
+    border-radius: 10px;
+    padding: 1%;
+    transition: 1.0s;
+    
+}
+
+.bouton:hover{
+    background-color: black;
+}

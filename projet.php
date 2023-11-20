@@ -12,6 +12,7 @@
             Voici une liste non exhaustive de certains projets que j'ai réalisé pendant ces deux ans.
         </div>
 
+        
         <div class="container projet-main-content1">
         <h2>Le Qwirkle</h2>
         <p>
@@ -22,6 +23,7 @@
             <a href="content/qwirkle.php">En savoir plus...</a>
         </p>
         </div>
+
 
         <div class="container projet-main-content2">
         <h2>Donjon et Dragon</h2>

@@ -1,4 +1,4 @@
-main{
+.projet-main{
     margin: auto;
     width: 70%;
     
@@ -45,4 +45,36 @@ main{
 
 .container h2{
     margin-bottom: 1%;
+}
+
+
+
+/* 
+
+Qwirkle page
+
+*/
+
+.qwirkle-main{
+    margin: auto;
+    width: 70%;
+}
+
+.qwirkle-main h1{
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.qwirkle-main1{
+    margin-top: 4%;
+}
+
+.qwirkle-main-text{
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+.qwirkle-main-text1,
+.qwirkle-main-text2{
+    margin-bottom: 2%;
 }
