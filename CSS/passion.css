@@ -1,0 +1,54 @@
+.passion-main{
+    margin: auto;
+    width: 90%;
+    
+}
+
+.passion-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.passion-main1{
+    display: flex;
+    flex-direction: row;
+    gap: 3%;
+}
+
+.passion-main h1{
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 7%;
+}
+
+.passion-main-content{
+    font-size: 1.3em;
+    text-align: justify;
+    margin-bottom: 10%;
+}
+
+.containerpassion{
+    margin-bottom: 3%;
+    font-size: 1.2em;
+    text-align: justify;
+    border: 1px solid white ;
+    padding: 2%;
+    width: 100%;
+    transition: 1.0s;
+}
+
+.containerpassion:hover{
+    transform: scale(1.1);
+    background-color: black;
+}
+
+.containerpassion a{
+    text-decoration: underline;
+    
+}   
+
+.containerpassion h2{
+    margin-bottom: 1%;
+}
+

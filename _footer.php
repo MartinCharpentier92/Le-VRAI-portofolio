@@ -6,7 +6,7 @@
                 </div>
                 <div class="container-footer2">
                         <div class="footerbox container-footer2-img1">
-                                <a href="">
+                                <a href="https://github.com/MartinCharpentier92">
                                         <img  class="logo-github" target="_blank "src="img/logo/github-logo.png" alt="">
                                 </a>
                         </div>
