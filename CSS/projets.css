@@ -108,3 +108,18 @@ Qwirkle page
 .qwirkle-main-link2{
     margin-bottom: 2%;
 }
+
+.qwirkle-main-pdf{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40%;
+    height: 10rem;
+
+}
+
+.qwirkle-main-pdf-title h3{
+    display: flex;
+    justify-content: center;
+    margin-top : 5%;
+    margin-bottom: 5%;
+}

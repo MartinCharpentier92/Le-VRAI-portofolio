@@ -85,7 +85,17 @@
             
         </div>
 
+        <div class="qwirkle-main-pdf-title">
+            <h3>Le PDF de présentation du projet :</h3>
+        </div>
+        <div class="qwirkle-main-pdf">
+            <embed src="../img/document/qwirkle" height="450px" width="700px" type="application/pdf">
+        </div>
+
     </div>
 
 
 </main>
+
+
+<?php require_once('../_footer.php') ?>
