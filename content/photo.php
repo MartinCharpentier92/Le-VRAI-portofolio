@@ -34,45 +34,42 @@
 
     <a class="bouton photo" href="Javascript:history.go(-1)"> < Retour</a>
 
-    <h1>Donjon & Dragon</h1>
+    <h1>Le site de vente</h1>
 
     <div class="photo-main1">
 
         <div class="photo-main-text">
             <div class="photo-main-text1">
                 <p>
-                    Dernier projet de l'année, il était réalisé induviduellement et nous pouvions utilisé 
-                    les langages qui nous semblaient utile, bien évidemment accès sur ceux sur lesquels nous avions déjà 
-                    eu l'occasion de travailler. Donc en langage <strong>PHP, SQL, HTML et CSS</strong>.
+                    Ce projet a été le dernier qui nous a été donné pendant la première année. Projet également en langage 
+                    <strong>PHP, SQl, HTML et CSS</strong> avec comme consigne de faire un site de vente spécialisé dans un domaine 
+                    particulier. Nous avons choisi de nous penché sur une boutique de niche d'appareil photo. Initialement le 
+                    groupe était composé de trois, malheureusement un de mes camarades a été appelé par l'armée ce qui est je pense 
+                    une raison valable.
+                    Nous avions eu donc que deux jours à 2 pour faire ce projet, avec pas moins de 54 commit sur le github commun.
                 </p>
             </div>
 
             <div class="photo-main-text2">
                 <p>
-                    L'idée était de coder une jeu interactif avec ses langages. Dans le jeu il devait être possible de se créer un compte, 
-                    se connecter bien sûr, une fois sur le compte de créer un personnage et de le sélectionner parmis nos personnages déjà 
-                    existant. Une fois le personnage sélectionné, choisir un donjon et parcourir les salles en tombant parfois sur un adversaire 
-                    parfois sur un trésor ou simplement une salle vide. Le tout en lien avec une base de données 
-                    héberger sur Wamp.
+                    Un paramètre aussi à prendre en compte, était la création d'une base de données qui correspondent à toutes les fonctionnalités 
+                    du site. Qui était quelque chose que nous avions déjà fait certes mais qui demandent tout de même du temps et de la concentration 
+                    afin de ne pas se retrouver avec des problèmes qui n'apparaissent que plus tard dans le projet.
                     <br>
-                    J'ai choisi de faire ce jeu autour de la mythologie et de la grèce antique, étant intéressé par cette époque. J'ai eu recours 
-                    a un générateur d'image utilisant <strong> l'intelligence artificielle </strong>car je voulais avoir des visuels précis qui se 
-                    démarquerait du travail de mes camarades.   
+                    <br>
+                    Il fallait donc faire un site avec une grose condition, avoir un compte administrateur sur lequel on peut ajouter des produits,
+                    modifier les produits et les supprimer. Chose totalement nouvelle pour nous, il fallait coder le même site avec des accès et des onglets 
+                    différents en fonctions de la personne connecter. Il fallait également la possibilité, sur le compte utilisateur, pouvoir mettre 
+                    un artciel en favoris, le mettre dans son panier, mettre des commentaires sur le site etc. Le temps ne nous a pas permis 
+                    d'ajouter ces fonctionnalités. J'estime néanmoins qu'un bon travail a été fourni.  
                 </p>
             </div>
 
             <div class="photo-main-text3">
                 <p>
-                    L'ayant dit plus tôt mais ce projet a été fait de manière individuelle, chacun apportait 
-                    les modifications qu'il voulait. J'ai fait de mon mieux pour ce projet, j'avais accumulé du retard 
-                    en raison de problème personnelle et ai du faire le plus gros du travail en peu de temps, seulement 
-                    quelques jours (et nuit). Mais j'ai constaté plusieurs choses grâce ou à cause de celà.
-                    <br>
-                    Travailler sous la pression n'est pas un problème et me stimule plus qu'autre chose. Même lorsque 
-                    les délais sont court, et que le temps semble manqué, il faut savoir faire une pause et prendre du temps 
-                    pour réfléchir et s'organiser.
-                    Et même si le résultat final n'est pas celui escompté, le plus important est d'avoir fait tout son possible 
-                    pour atteindre l'objectif fixé. 
+                    Le fait de travailler à plusieurs permet beaucoup de chose, mais demande aussi une capacité aussi bien à donner des diredctives 
+                    qu'à suivre celles qui nous sont données. A plusieurs moment la présence d'une équipe nous remotive et le fait de savoir que, de notre 
+                    échec ou notre réussite dépend celle des autres est extrêmement stimulant.
                 </p>
             </div>
             
@@ -82,20 +79,20 @@
         <div class="photo-main-presentation">
             <h3>Ci-dessous quelques captures d'écran du projet :</h3>
             <div class="photo-main-presentation-photo">
-                <img src="../img/project/Donjon1.png" alt="">
+                <img src="../img/project/Photo1.png" alt="">
                 <p>
-                La page d'accueil quand on arrive sur le site, la possibilité en haut de créer un compte ou de se connecter. En sachant que, pour se connecter, un compte doit avoir été créé au préalable.
+                La page d'accueil quand on arrive sur le site. Il fallait que la totalité du site soit accessible qu'un compte soit créer ou non.
     
                 </p>
 
-                <img src="../img/project/Donjon2.png" alt="">
+                <img src="../img/project/Photo2.png" alt="">
                 <p>
-                    Ci-dessus la liste des personnages créé, par défaut cette liste est vide. Vous avez la possibilité de supprimer le personnage, 
-                    le choisir pour l'aventure, d'afficher ses caractéristiques ou de le modifier.
+                    Ci-dessus : le formulaire de création de compte. Chaque champ était nécessaire pour créer un compte et devait différer des autres comptes.
+                    A une adresse mail un compte.   
                 </p>
-                <img src="../img/project/Donjon3.png" alt="">
-                <p>Exemple d'une salle du donjon, ici c'est simplement l'entrée. On voit en haut 
-                    à gauche le personnage choisi avec ses caractéristiques etc.
+                <img src="../img/project/Photo3.png" alt="">
+                <p>
+                    La page où sont présents les produits, la possibilité d'avoir plus d'informations dessus etc.
                 </p>
             </div>
 
@@ -108,7 +105,7 @@
             </div>
             
             <div class="photo-main-link1">
-                <a target='blank' href="https://github.com/MartinCharpentier92/Jeu-PHP">
+                <a target='blank' href="https://github.com/Alexios76/PT2-S2-G7">
                     <img src="../img/logo/github-logo.png" alt="">
                 </a>
             </div>

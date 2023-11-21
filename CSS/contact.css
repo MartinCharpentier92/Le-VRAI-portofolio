@@ -1,0 +1,48 @@
+.contact-main h1{
+    display: flex;
+    justify-content: center;
+    font-size: 3.0em;
+    margin-bottom: 10%;
+}
+
+.contact-main-container{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: auto;
+}  
+
+.contactbox{
+    display: flex;
+    width: 50%;
+    border: 1px solid red;
+}
+
+.contactbox li{
+    list-style: none;
+}
+
+.contact-main1-form{
+    background-color: rgb(23 ,23 ,23);
+    padding: 2%;
+    font-size: 1.1em;
+    margin: 3%;
+}
+
+::placeholder{
+    color: white;
+}
+
+.contact-main-container2{
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-main-container2 img{
+    width: 50%;
+}
+
+.contact-main-container2-1{
+    display: flex;
+    flex-direction: row;
+}

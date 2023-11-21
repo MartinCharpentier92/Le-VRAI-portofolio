@@ -242,3 +242,93 @@ Donjon page
     margin-bottom: 10%;
     margin-top: 10%;
 }
+
+
+
+/*
+Photo page
+*/
+
+.photo-main{
+    margin: auto;
+    width: 70%;
+}
+
+.photo-main h1{
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.photo-main1{
+    margin-top: 4%;
+}
+
+.photo-main-text{
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+.photo-main-text1,
+.photo-main-text2,
+.photo-main-text3{
+    margin-bottom: 2%;
+}
+
+.photo-main-text3{
+    margin-bottom: 5%;
+}
+
+.photo-main-link{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.photo-main-link1 a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.photo-main-link1 img{
+    width: 60%;
+    transition: 0.7s;
+}
+
+.photo-main-link1 img:hover{
+    width: 70%
+}
+
+.photo-main-link2{
+    margin-bottom: 2%;
+}
+
+.photo-main-presentation-photo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.photo-main-presentation-photo img{
+    width: 100%;
+    margin-bottom: 1%;
+}
+
+.photo-main-presentation-photo p{
+    font-size: 1.4em;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 2%;
+    margin-bottom: 5%;
+}
+
+.photo-main-presentation h3{
+    display: flex;
+    justify-content: center;
+    font-size: 2.2em;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}

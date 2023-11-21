@@ -41,7 +41,7 @@
         <div class="donjon-main-text">
             <div class="donjon-main-text1">
                 <p>
-                    Dernier projet de l'année, il était réalisé induviduellement et nous pouvions utilisé 
+                    Avant-dernier projet de l'année, il était réalisé induviduellement et nous pouvions utilisé 
                     les langages qui nous semblaient utile, bien évidemment accès sur ceux sur lesquels nous avions déjà 
                     eu l'occasion de travailler. Donc en langage <strong>PHP, SQL, HTML et CSS</strong>.
                 </p>

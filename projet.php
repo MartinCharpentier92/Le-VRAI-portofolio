@@ -42,7 +42,7 @@
                     du jeu, j'ai choisis de m'orienter vers la grêce antique étant une période qui m'a toujours fasciné et 
                     ai notamment eu recours à <strong>l'IA pour générer les images</strong> dont j'avais besoin. 
                     Ce projet est tombé à un moment compliqué pour moi, mais je reste satisfait de mon travail étant donné le peu de 
-                    temps que j'avais (1 semaine contre plusieurs pour les autres). <br>
+                    temps que j'avais (2 jours contre plusieurs semaines pour les autres). <br>
                     <a href="content/donjon.php">En savoir plus...</a>
                 </p>
         </div>

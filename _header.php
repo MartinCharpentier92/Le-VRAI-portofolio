@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="CSS/passion.css">
     <link rel="stylesheet" href="CSS/index.css">
     <link rel="stylesheet" href="CSS/projets.css">
-    
+    <link rel="stylesheet" href="CSS/contact.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
