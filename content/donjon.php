@@ -30,54 +30,84 @@
         </ul>
     </nav>
 
-<main class="qwirkle-main">
+<main class="donjon-main">
 
     <a class="bouton photo" href="Javascript:history.go(-1)"> < Retour</a>
 
     <h1>Donjon & Dragon</h1>
 
-    <div class="qwirkle-main1">
+    <div class="donjon-main1">
 
-        <div class="qwirkle-main-text">
-            <div class="qwirkle-main-text1">
+        <div class="donjon-main-text">
+            <div class="donjon-main-text1">
                 <p>
-                    Ce projet est le deuxième qui nous a été donné en langage C. Il a été très difficile à réalisé dû au fait que 
-                    certaines notion essentiel pour réalisé le projet ne nous ont pas été enseigné. Parmis elle, les 
-                    pointeurs, fonction essentiel et très puissante du langage C qu'il est nécessaire de comprendre et d'utiliser
-                    dans presque tout programme en C. 
+                    Dernier projet de l'année, il était réalisé induviduellement et nous pouvions utilisé 
+                    les langages qui nous semblaient utile, bien évidemment accès sur ceux sur lesquels nous avions déjà 
+                    eu l'occasion de travailler. Donc en langage <strong>PHP, SQL, HTML et CSS</strong>.
                 </p>
             </div>
 
-            <div class="qwirkle-main-text2">
+            <div class="donjon-main-text2">
                 <p>
-                    Nous étions en groupe de 3, et heureuseusement qu'un de mes camarades avait déjà vu cette notion et 
-                    qui a pu nous expliquer en détail l'uitilisation des pointeurs et comment ils fonctionnaient. Une des 
-                    autres difficultés de ce projet était, le jeu en lui-même. Coder un jeu qu'on ne connaît pas et qu'on ne comprends
-                    pas n'est pas chose aisé. 
+                    L'idée était de coder une jeu interactif avec ses langages. Dans le jeu il devait être possible de se créer un compte, 
+                    se connecter bien sûr, une fois sur le compte de créer un personnage et de le sélectionner parmis nos personnages déjà 
+                    existant. Une fois le personnage sélectionné, choisir un donjon et parcourir les salles en tombant parfois sur un adversaire 
+                    parfois sur un trésor ou simplement une salle vide. Le tout en lien avec une base de données 
+                    héberger sur Wamp.
                     <br>
-                    Le projet a été guidé par mon camarade le plus expérimenté, et j'ai pue me rendre compte tout comme lui que 
-                    donner des ordres et prendre des intiatives n'est pas facile mais est un exercice extrêment stimulant sur plein 
-                    d'aspect.
+                    J'ai choisi de faire ce jeu autour de la mythologie et de la grèce antique, étant intéressé par cette époque. J'ai eu recours 
+                    a un générateur d'image utilisant <strong> l'intelligence artificielle </strong>car je voulais avoir des visuels précis qui se 
+                    démarquerait du travail de mes camarades.   
                 </p>
             </div>
 
-            <div class="qwirkle-main-text3">
+            <div class="donjon-main-text3">
                 <p>
-                    De plus ce projet a dû être réalisé en deux semaines avec des cours en plus, ce qui a rajouté de la difficulté 
-                    au projet initial. Malgré tout ça le projet a été terminé avec un résultat convainquant, et avec la fierté d'avoir 
-                    fait tout ce que nous pouvions.
+                    L'ayant dit plus tôt mais ce projet a été fait de manière individuelle, chacun apportait 
+                    les modifications qu'il voulait. J'ai fait de mon mieux pour ce projet, j'avais accumulé du retard 
+                    en raison de problème personnelle et ai du faire le plus gros du travail en peu de temps, seulement 
+                    quelques jours (et nuit). Mais j'ai constaté plusieurs choses grâce ou à cause de celà.
+                    <br>
+                    Travailler sous la pression n'est pas un problème et me stimule plus qu'autre chose. Même lorsque 
+                    les délais sont court, et que le temps semble manqué, il faut savoir faire une pause et prendre du temps 
+                    pour réfléchir et s'organiser.
+                    Et même si le résultat final n'est pas celui escompté, le plus important est d'avoir fait tout son possible 
+                    pour atteindre l'objectif fixé. 
                 </p>
             </div>
             
             
         </div>
 
-        <div class="qwirkle-main-link">
-            <div class="qwirkle-main-link2">
+        <div class="donjon-main-presentation">
+            <h3>Ci-dessous quelques captures d'écran du projet :</h3>
+            <div class="donjon-main-presentation-photo">
+                <img src="../img/project/Donjon1.png" alt="">
+                <p>
+                La page d'accueil quand on arrive sur le site, la possibilité en haut de créer un compte ou de se connecter. En sachant que, pour se connecter, un compte doit avoir été créé au préalable.
+    
+                </p>
+
+                <img src="../img/project/Donjon2.png" alt="">
+                <p>
+                    Ci-dessus la liste des personnages créé, par défaut cette liste est vide. Vous avez la possibilité de supprimer le personnage, 
+                    le choisir pour l'aventure, d'afficher ses caractéristiques ou de le modifier.
+                </p>
+                <img src="../img/project/Donjon3.png" alt="">
+                <p>Exemple d'une salle du donjon, ici c'est simplement l'entrée. On voit en haut 
+                    à gauche le personnage choisi avec ses caractéristiques etc.
+                </p>
+            </div>
+
+        </div>
+
+
+        <div class="donjon-main-link">
+            <div class="donjon-main-link2">
                 <h3>Lien vers le GitHub du projet</h3>
             </div>
             
-            <div class="qwirkle-main-link1">
+            <div class="donjon-main-link1">
                 <a target='blank' href="https://github.com/MartinCharpentier92/Jeu-PHP">
                     <img src="../img/logo/github-logo.png" alt="">
                 </a>

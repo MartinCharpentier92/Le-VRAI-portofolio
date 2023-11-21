@@ -20,7 +20,7 @@
             Ce mouvement concerne la vie dans son ensemble et ne se limite pas au vêtements, l'élégance d'une 
             personne de strouve également dans ses agissements, sa capacité à mettre les gens 
             autour de lui à l'aise et à transpirer la nonchalance. <br>
-            <a href="">En savoir plus ...</a>
+            <a href="content/sarto.php">En savoir plus ...</a>
         </p>
         </div>
 
@@ -29,7 +29,7 @@
         <h2>La lecture</h2>
         <p>
             Une de mes passions est la lecture. Je lis majoritairement des livres sur les sujets qui me passionnent
-            (que vous trouverez ci-dessous) mais aussi des livres de philosophie et les grand classiques de la
+            mais également des livres de philosophie et les grand classiques de la
             littérature française. Je lis surtout pour nourrir ma curiosité, développer mon vocabulaire et mes
             connaissances, j'aime aussi me fixer des objectifs de lecture, que ce soit un livre particulièrement
             compliqué, sur une sujet que je ne maîtrise pas, ou même dans une langue étrangère. <br>
@@ -53,7 +53,7 @@
             la biomécanique, la nutrition et même la physiologie.
             Et de manière générale, cette discipline donne une certaine connaissance de son corps,
             et par extension de son esprit, c'est une des raisons pour lesquelles la culture physique doit être
-            accompagné de celle de l'esprit et de l'intéllect. <br>
+            accompagné de celle de l'esprit et de l'intellect. <br>
             <a href="">En savoir plus ...</a>
         </p>
         </div>
