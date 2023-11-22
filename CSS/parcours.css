@@ -1,0 +1,12 @@
+.parcours-main{
+    width: 70%;
+    display: flex;
+    margin: auto;
+    flex-direction: column  ;
+}
+
+.parcours-main h1{
+    display: flex;
+    margin: auto;
+    font-size: 3.0em;
+}

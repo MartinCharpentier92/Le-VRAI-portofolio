@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="CSS/index.css">
     <link rel="stylesheet" href="CSS/projets.css">
     <link rel="stylesheet" href="CSS/contact.css">
+    <link rel="stylesheet" href="CSS/parcours.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -25,7 +26,7 @@
                 <li><a href="apropos.php">A Propos</a></li>
                 <li><a href="projet.php">Projets</a></li>
                 <li><a href="passion.php">Passions</a></li>
-                <li><a href="exp.php">Expériences</a></li>
+                <li><a href="parcours.php">Parcours</a></li>
                 <li><a href="contact.php">Contact</a></li>
             </div>
         </ul>
