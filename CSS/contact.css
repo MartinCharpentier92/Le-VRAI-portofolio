@@ -106,11 +106,22 @@
 
 .petitlogo{
     width: 80%;
+    transition: 1.0s;
 }
 
 .grandlogo{
     width: 40%;
+    transition: 1.0s;
 }
+
+.petitlogo:hover{
+    transform: scale(1.2);
+}
+
+.grandlogo:hover{
+    transform: scale(1.2);
+}
+
 
 
 .contact-main-container7 h2{

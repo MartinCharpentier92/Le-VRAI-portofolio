@@ -9,8 +9,8 @@
 
         <h2>Mes expériences</h2>
 
-        <div class="parcours-main-content1-1">
-            <h3>Employé de collectivités au CCGPF</h3>
+        <div class="containerpar parcours-main-content1-1">
+            <h3>Employé de collectivités au CCGPF  <div>2022-2023</div>  </h3>
             <p>
                 J'ai pour habitude, en période de vacances scolaires, de travailler 
                 en colonie de la vacances en tant qu'employé de collectivités. Ce sont 
@@ -30,8 +30,8 @@
         </div>
 
 
-        <div class="parcours-main-content1-2">
-            <h3>Agent logistique chez <em>Yves Salomon</em></h3>
+        <div class="containerpar parcours-main-content1-2">
+            <h3>Agent logistique chez Yves Salomon <div>Juin-Juillet 2023</div> </h3>
             <p>
                 Pendant les mois de juin et juillet j'ai effectué un CDD dans l'entreprise de fourrure Yves Salomon dans leur entrepôt à Clichy.
                 J'ai réussi très vite à prendre la cadence et à m'intégrer au sein de l'équipe. Dès le début j'ai suivi 
@@ -49,16 +49,62 @@
         </div>
 
 
+        <div class="containerpar parcours-main-content1-3">
+            <h3>Intérimaire chez Manpower <div>  Juin 2022  </div> </h3>
+            <p>
+                Pendant le moi de juin 2022, j'ai travaillé pour un Tennis Club à Boulogne-Billancourt. 
+                Durant quelques jours j'ai effectué des travaux de manutention, le principale était le débullage des terrains de tennis.
+                A vrai dire je ne savais pas comment des grandes bulles s'enlevait, tâche très physique, où j'ai fait ça 
+                il n'y avait aucune machine, tout était fait main. <br>
+                Cette expérience a été ma première avec le travail, et j'ai très vite compris ce qui allait me plair ou non, et ai 
+                ainsi pu consolider mon projet future. <br>
+
+            </p>
+        </div>
+
+
 
     </div>
 
 
-    <div class="parcours-main-container1">
+    <div class="parcours-main-container2">
 
+        <h2>Mes formations</h2>
+
+        <div class="containerpar parcours-main-container2-1">
+            <h3>Bachelor Informatique à l'ECE <div>Septembre 2022 - Août 2025</div></h3>
+            <p>
+                Diplôme en 3 ans (RNCP niveau 6) dans lequel j'étudie toutes les bases de l'informatiques, dévéloppement avec les  <strong>langages C, PHP, SQL, HTML/CSS, Python</strong> et d'autre.
+                Egalement des cours de <strong>réseaux, système, bases de données relationnelles, du cloud computing</strong> . Et evidemment les bases avec des mathématiques, de l'anglais, de l'expression
+                et même plusieurs cours de connaissance de l'entreprise.
+            </p>
+        </div>
+
+        <div class="containerpar parcours-main-container2-2">
+            <h3>Formation parallèle</h3>
+            <p>
+                En plus de mes cours, j'ai décidé de me former surtout sur la plateforme Open Classroom, que ce soit pour consolider ce que j'avais vu en classe 
+                ou pour approndir et nourrir ma curiosité. J'ai fait les cours suivants : <br>
+                - Apprenez à programmer en C, <br>
+                - Concevez votre réseau TCP/IP, <br>
+                - Créez votre site web avec HTML5 et CSS3, <br>
+                - Concevez votre site avec PHP et MySQL. <br>
+            </p>
+        </div>
 
     </div>
 
 
+    <div class="parcours-main-container3">
+
+        <div id ="cv" class="parcours-main-pdf-title">
+            <h3>Mon CV au format PDF :</h3>
+        </div>
+        <div class="parcours-main-pdf">
+            <embed src="img/document/CV-Martin-2023." height="1050px" width="700px" type="application/pdf">
+        </div>
+
+    </div>
 
 
 </main>

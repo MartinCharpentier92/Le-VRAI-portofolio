@@ -1,5 +1,5 @@
 .parcours-main{
-    width: 70%;
+    width: 60%;
     display: flex;
     margin: auto;
     flex-direction: column  ;
@@ -9,4 +9,51 @@
     display: flex;
     margin: auto;
     font-size: 3.0em;
+    margin-bottom: 5%;
+}
+
+.parcours-main h2{
+    display: flex;
+    font-size: 2.5em;
+    margin-top: 10%;
+    margin-bottom: 3%;
+}
+
+.parcours-main h3{
+    text-decoration: underline;
+    font-size: 1.7em;
+}
+
+.parcours-main p{
+    font-size: 1.3em;
+    text-align: justify;
+}
+
+.parcours-main-pdf{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+
+}
+
+.parcours-main-pdf-title h3{
+    display: flex;
+    justify-content: center;
+    margin-top : 5%;
+    margin-bottom: 5%;
+}
+
+
+.containerpar{
+    margin-bottom: 5%;
+    text-align: justify;
+    border: 1px solid white ;
+    padding: 3%;
+    width: 100%;
+    transition: 1.0s;
+}
+
+.containerpar:hover{
+    transform: scale(1.1);
+    background-color: black;
 }

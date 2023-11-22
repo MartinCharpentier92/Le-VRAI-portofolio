@@ -13,25 +13,25 @@
             <div class="contact-main-container2-1">
 
                 <div class="contact-main-container2-1-1">
-                    <a href="">
+                    <a target='_blank' href="https://github.com/MartinCharpentier92">
                         <img class="petitlogo" src="img/logo/github-logo.png" alt="">
                     </a>
                 </div>
 
                 <div class="contact-main-container2-1-2">
-                    <a href="">
+                    <a target='_blank' href="https://twitter.com/elonmusk">
                         <img class="grandlogo" src="img/logo/x-logo.png" alt="">
                     </a>
                 </div>
 
                 <div class="contact-main-container2-1-3">
-                    <a href="">
+                    <a target='_blank' href="https://www.instagram.com/cbum/">
                         <img class="grandlogo" src="img/logo/insta-logo.png" alt="">
                     </a>
                 </div>
 
                 <div class="contact-main-container2-1-4">
-                    <a href="">
+                    <a target='_blank' href="https://www.linkedin.com/in/martin-charpentier-7a406822b/">
                         <img class="petitlogo" src="img/logo/linkedin-logo.png" alt="">
                     </a>
                 </div>
@@ -77,7 +77,7 @@
 
     <div class="contact-main-container7">
 
-        <h2>Où via mes coordonnées que vous trouverez dans mon CV.</h2>
+        <h2>Où via mes coordonnées que vous trouverez dans mon CV</h2>
     </div>
 
 
