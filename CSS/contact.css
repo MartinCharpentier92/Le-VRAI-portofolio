@@ -2,24 +2,37 @@
     display: flex;
     justify-content: center;
     font-size: 3.0em;
-    margin-bottom: 10%;
+    margin-bottom: 7%;
 }
 
 .contact-main-container{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 70%;
     margin: auto;
 }  
 
+.contact-main-container h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 9%;
+    font-size: 2.3em;
+}
+
 .contactbox{
     display: flex;
     width: 50%;
-    border: 1px solid red;
 }
 
 .contactbox li{
     list-style: none;
+    align-items: center;
+}
+
+.contactbox h2{
+    display: flex;
+    justify-content: center;
 }
 
 .contact-main1-form{
@@ -27,6 +40,36 @@
     padding: 2%;
     font-size: 1.1em;
     margin: 3%;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-main-container1{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-main-container1 label{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.boutonform{
+    color: white;
+    border: 1px solid white;
+    background-color: rgb(43, 43, 43);
+    border-radius: 10px;
+    padding: 4%;
+    transition: 1.0s;
+    display: flex;
+    margin: auto;
+    
+}
+
+.boutonform:hover{
+    background-color: black;
 }
 
 ::placeholder{
@@ -35,14 +78,44 @@
 
 .contact-main-container2{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    font-size: 1.7em;
+    align-items: center;
+    margin: auto;
 }
 
-.contact-main-container2 img{
+/* .contact-main-container2 img{
     width: 50%;
-}
+} */
 
 .contact-main-container2-1{
+    margin-top: 10% ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-main-container2-1-1,
+.contact-main-container2-1-2,
+.contact-main-container2-1-3,
+.contact-main-container2-1-4{
     display: flex;
-    flex-direction: row;
+    text-align: center;
+}
+
+.petitlogo{
+    width: 80%;
+}
+
+.grandlogo{
+    width: 40%;
+}
+
+
+.contact-main-container7 h2{
+    display: flex;
+    justify-content: center;
+    font-size: 2.0em;
+    margin-top: 5%;
 }

@@ -5,10 +5,47 @@
 
     <h1>Me contactez</h1>
 
+
+    <div class="contactbox contact-main-container2">
+
+        <h2>Mes réseaux</h2>
+
+            <div class="contact-main-container2-1">
+
+                <div class="contact-main-container2-1-1">
+                    <a href="">
+                        <img class="petitlogo" src="img/logo/github-logo.png" alt="">
+                    </a>
+                </div>
+
+                <div class="contact-main-container2-1-2">
+                    <a href="">
+                        <img class="grandlogo" src="img/logo/x-logo.png" alt="">
+                    </a>
+                </div>
+
+                <div class="contact-main-container2-1-3">
+                    <a href="">
+                        <img class="grandlogo" src="img/logo/insta-logo.png" alt="">
+                    </a>
+                </div>
+
+                <div class="contact-main-container2-1-4">
+                    <a href="">
+                        <img class="petitlogo" src="img/logo/linkedin-logo.png" alt="">
+                    </a>
+                </div>
+
+            </div>
+
+    </div>
+
     <div class="contact-main-container">
 
+    <h2>En m'envoyant un message ci-dessous,</h2>
+
         <div class="contactbox contact-main-container1">
-        
+
             <form class="contact-main1-form" action="" method="post">
                 <ul>
                     <li>
@@ -29,52 +66,18 @@
                     </li>
                 
                     <li>
-                        <button class="bouton" type="submit">Envoyer</button>
+                        <button class="boutonform" type="submit">Envoyer</button>
                     </li>
                 </ul>
             </form>
 
-
         </div>
 
-        <div class="contactbox contact-main-container2">
+    </div>
 
-            <h2>Mes réseaux</h2>
+    <div class="contact-main-container7">
 
-
-
-            <div class="contact-main-container2-1">
-
-                <div class="contact-main-container2-1-1">
-                    <a href="">
-                        <img src="img/logo/github-logo.png" alt="">
-                    </a>
-                </div>
-
-                <div class="contact-main-container2-1-2">
-                    <a href="">
-                        <img src="img/logo/x-logo.png" alt="">
-                    </a>
-                </div>
-
-                <div class="contact-main-container2-1-3">
-                    <a href="">
-                        <img src="img/logo/insta-logo.png" alt="">
-                    </a>
-                </div>
-
-                <div class="contact-main-container2-1-4">
-                    <a href="">
-                        <img src="img/logo/linkedin-logo.png" alt="">
-                    </a>
-                </div>
-
-
-            </div>
-
-        </div>
-
-
+        <h2>Où via mes coordonnées que vous trouverez dans mon CV.</h2>
     </div>
 
 
