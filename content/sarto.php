@@ -41,31 +41,26 @@
         <div class="sarto-main-text">
             <div class="sarto-main-text1">
                 <p>
-                    Ce projet est le deuxième qui nous a été donné en langage C. Il a été très difficile à réalisé dû au fait que 
-                    certaines notion essentiel pour réalisé le projet ne nous ont pas été enseigné. Parmis elle, les 
-                    pointeurs, fonction essentiel et très puissante du langage C qu'il est nécessaire de comprendre et d'utiliser
-                    dans presque tout programme en C. 
+                    Qu'est ce que le Sartorialisme, à proprement parler il s'agit de l'amour de l'art tailleur. Mais de manière plus générale
+                    beaucoup de gens passioné par l'art tailleur, s'intéresse également à l'art bottier, l'horlogerie, et certains même à l'œnologie.
+                    En bref c'est la passion du vêtement, particulièrement le vêtement classique.
                 </p>
             </div>
 
             <div class="sarto-main-text2">
                 <p>
-                    Nous étions en groupe de 3, et heureuseusement qu'un de mes camarades avait déjà vu cette notion et 
-                    qui a pu nous expliquer en détail l'uitilisation des pointeurs et comment ils fonctionnaient. Une des 
-                    autres difficultés de ce projet était, le jeu en lui-même. Coder un jeu qu'on ne connaît pas et qu'on ne comprends
-                    pas n'est pas chose aisé. 
-                    <br>
-                    Le projet a été guidé par mon camarade le plus expérimenté, et j'ai pue me rendre compte tout comme lui que 
-                    donner des ordres et prendre des intiatives n'est pas facile mais est un exercice extrêment stimulant sur plein 
-                    d'aspect.
+                    Une comparaison que je fais souvent pour que les gens arrivent à saisir ce que c'est, c'est d'évoquer les noms de Cary Grant, 
+                    Gary Cooper etc. <br>
+                    Dis comme ça, ça semble un peu prétentieux voire snob. Hors ce n'est pas du tout le cas, ce qui nous intéresse c'est la coupe 
+                    et la matière. Il y a quelques éléments caractéristique du style classique, et dès que l'on y prête attention on remarque
+                    plein de différence avec un style plus moderne. Pantalon souvent taille haute et large et long, veste plus longue avec des 
+                    revers plus larges, col de chemises plus généreux bref. Nous sommes souvent aux antipodes de la mode du slim.
                 </p>
             </div>
 
             <div class="sarto-main-text3">
                 <p>
-                    De plus ce projet a dû être réalisé en deux semaines avec des cours en plus, ce qui a rajouté de la difficulté 
-                    au projet initial. Malgré tout ça le projet a été terminé avec un résultat convainquant, et avec la fierté d'avoir 
-                    fait tout ce que nous pouvions.
+                    Domaine qui pousse beaucoup de gens à s'intéresser à nouveau aux métiers manuel et à l'artisanat
                 </p>
             </div>
             
